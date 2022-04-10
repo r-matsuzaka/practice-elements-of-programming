@@ -24,7 +24,7 @@
 - [ ] Chapter20: Common Tools
 - [ ] Chapter21: Honors Class
 - [ ] Extra1   : Reinforcement Learning 
-- [ ] Extra2   : Genetic algorithm
+- [x] Extra2   : Genetic algorithm
 - [x] Extra3   : Dijkstra's algorithm
 - [x] Extra4   : Bellman–Ford algorithm
 - [x] Extra5   : Floyd–Warshall Algorithm
