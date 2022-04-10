@@ -23,6 +23,7 @@
 - [x] Chapter19: Object-Oriented Design
 - [ ] Chapter20: Common Tools
 - [ ] Chapter21: Honors Class
-- [ ] Extra    : Reinforcement Learning 
+- [ ] Extra1   : Reinforcement Learning 
+- [ ] Extra2   : Genetic algorithm
 
 See [Elements of Programming Interviews](https://elementsofprogramminginterviews.com/).
