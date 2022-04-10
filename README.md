@@ -27,5 +27,6 @@
 - [ ] Extra2   : Genetic algorithm
 - [x] Extra3   : Dijkstra's algorithm
 - [x] Extra4   : Bellman–Ford algorithm
+- [x] Extra5   : Floyd–Warshall Algorithm
 
 See [Elements of Programming Interviews](https://elementsofprogramminginterviews.com/).
