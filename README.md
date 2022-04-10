@@ -25,5 +25,6 @@
 - [ ] Chapter21: Honors Class
 - [ ] Extra1   : Reinforcement Learning 
 - [ ] Extra2   : Genetic algorithm
+- [ ] Extra3   : Dijkstra's algorithm
 
 See [Elements of Programming Interviews](https://elementsofprogramminginterviews.com/).
