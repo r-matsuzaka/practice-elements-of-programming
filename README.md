@@ -15,7 +15,7 @@
 - [x] Chapter11: Binary Search Trees
 - [ ] Chapter12: Recursion
 - [ ] Chapter13: Dynamic Programming
-- [ ] Chapter14: Greedy Algorithms and Invariants
+- [x] Chapter14: Greedy Algorithms and Invariants
 - [ ] Chapter15: Graphs
 - [x] Chapter16: Parallel Computing
 - [ ] Chapter17: Design Problems
